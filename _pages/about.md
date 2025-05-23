@@ -129,7 +129,7 @@ A guiding principle I live by is: **Do good work, and don’t worry too much abo
 
 - [A Named Entity Extraction Method for Commonly Used Steel Knowledge Graph](https://link.springer.com/chapter/10.1007/978-981-16-6320-8_74)
   
-  Zeqi Ma, Lingwei Ma, Dongmei Fu, Guangxuan Song, and Dawei Zhang
+  Zeqi Ma, Lingwei Ma, Dongmei Fu, **Guangxuan Song**, and Dawei Zhang
   
   **2021 Chinese Intelligent Systems Conference**
 
@@ -138,7 +138,7 @@ A guiding principle I live by is: **Do good work, and don’t worry too much abo
 - *2020*, Gold Award, **“Challenge Cup” Capital College Student Entrepreneurship Competition**, *Calmspoon Stabilizing Tableware* (“挑战杯”省赛金奖)
 - *2020*, National Second Prize, **4th “Changfeng Cup” National College Student Big Data Competition**, *Customer profiling for logistics data using knowledge graphs*
 - *2021*, Second Prize, **“Maker Beijing” Regional Innovation and Entrepreneurship Competition** – Urban Big Data Track, *Calmspoon Stabilizing Tableware*
-- *2024*, Third Prize, **China International College Students Innovation Competition** – Beijing Regional, “YiWenZhi” AI-powered medical assistant for clinical documentation*
+- *2024*, Third Prize, **China International College Students Innovation Competition** – Beijing Regional, *“YiWenZhi” AI-powered medical assistant for clinical documentation*
 - *2024*, Top 100 Teams, **“Jingcai Dachuang” Beijing College Student Innovation and Entrepreneurship Competition** – Healthcare Track, *“YiWenZhi” Intelligent Medical Assistant*
 
 ---

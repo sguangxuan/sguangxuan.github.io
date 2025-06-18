@@ -111,7 +111,7 @@ A guiding principle I live by is: **Do good work, and don’t worry too much abo
 
 ---
 
-- [Cross-category prediction of corrosion inhibitor performance based on molecular graph structures via a three-level message passing neural network model](https://www.sciencedirect.com/science/article/abs/pii/S0010938X22006989)
+- [Cross-category Prediction of Corrosion Inhibitor Performance Based on Molecular Graph Structures via a Three-level Message Passing Neural Network Model](https://www.sciencedirect.com/science/article/abs/pii/S0010938X22006989)
   
   Jiaxin Dai, Dongmei Fu, **Guangxuan Song**, Lingwei Ma, Xin Guo, Arjan Mol, Ivan Cole, and Dawei Zhang
   

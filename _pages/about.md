@@ -87,11 +87,11 @@ A guiding principle I live by is: **Do good work, and don’t worry too much abo
 
 ---
 
-- Corrosion Resistant Performance Prediction in High-Entropy Alloys: A Framework for Model, Interpretation and Multi-Dimensional Visualization
+- [Corrosion Resistant Performance Prediction in High-Entropy Alloys: A Framework for Model, Interpretation and Multi-Dimensional Visualization](https://www.sciencedirect.com/science/article/pii/S0010938X25004329)
   
   **Guangxuan Song**, Dongmei Fu, Weiwei Chang, Zhongheng Fu, Lingwei Ma, and Dawei Zhang
   
-  **Corrosion Science (under review)**
+  **Corrosion Science 2025**
 
 ---
 
@@ -99,7 +99,15 @@ A guiding principle I live by is: **Do good work, and don’t worry too much abo
   
   **Guangxuan Song**, Dongmei Fu, Yongjie Lin, Lingwei Ma, and Dawei Zhang
   
-  **npj Materials Degradation (under review)**
+  **npj Materials Degradation (Accept)**
+
+---
+
+- [Understanding and Optimization of Large Language Models for Corrosion Inhibition Efficiency Prediction](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5271369)
+  
+  Suyu Jin, Zhongheng Fu, **Guangxuan Song**, Jiamin Pei, Haiyan Gong, Lingwei Ma, and Dawei Zhang
+  
+  **Corrosion Science (Under Review)**
 
 ---
 

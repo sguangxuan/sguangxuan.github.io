@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <title>Bilibili icon</title>
+  <rect x="2" y="5" width="20" height="15" rx="2" fill="currentColor"/>
+  <path d="M7 2 L5 5" stroke="currentColor" stroke-width="2" fill="none"/>
+  <path d="M17 2 L19 5" stroke="currentColor" stroke-width="2" fill="none"/>
+  <circle cx="9" cy="12" r="2" fill="#fff"/>
+  <circle cx="15" cy="12" r="2" fill="#fff"/>
+  <path d="M9 16c2 1 4 1 6 0" stroke="#fff" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+</svg>

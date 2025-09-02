@@ -95,19 +95,19 @@ A guiding principle I live by is: **Do good work, and don’t worry too much abo
 
 ---
 
-- Corrosion Resistance Prediction of High-entropy Alloys: Framework and Knowledge Graph-Drive
+- [Corrosion Resistance Prediction of High-entropy Alloys: Framework and Knowledge Graph-Drive Method Integrating Composition, Processing, and Crystal Structure](https://www.nature.com/articles/s41529-025-00632-4)
   
-  **Guangxuan Song**, Dongmei Fu, Yongjie Lin, Lingwei Ma, and Dawei Zhang
+  **Guangxuan Song**, Dongmei Fu, Yongjie Lin, Lingei Ma, and Dawei Zhang
   
-  **npj Materials Degradation (Accept)**
+  **npj Materials Degradation 2025**
 
 ---
 
-- [Understanding and Optimization of Large Language Models for Corrosion Inhibition Efficiency Prediction](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5271369)
+- [Understanding and Optimization of Large Language Models for Corrosion Inhibition Efficiency Prediction](https://www.sciencedirect.com/science/article/pii/S0010938X2500544X)
   
   Suyu Jin, Zhongheng Fu, **Guangxuan Song**, Jiamin Pei, Haiyan Gong, Lingwei Ma, and Dawei Zhang
   
-  **Corrosion Science (Under Review)**
+  **Corrosion Science 2025**
 
 ---
 

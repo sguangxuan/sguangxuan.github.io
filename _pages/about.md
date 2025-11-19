@@ -35,12 +35,14 @@ A guiding principle I live by is: **Do good work, and don’t worry too much abo
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Soft Computing 2025</div><img src='images/NRKG-500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCR Q1, IF=6.6</div><img src='images/NRKG-500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Bridging the Semantic-Numerical Gap: A Numerical Reasoning Method of Cross-modal Knowledge Graph for Material Property Prediction](https://www.sciencedirect.com/science/article/pii/S1568494625010890)
 
 **Guangxuan Song**, Dongmei Fu, Zhongwei Qiu, Zijiang Yang, Jiaxin Dai, Lingwei Ma, and Dawei Zhang
+
+**Applied Soft Computing 2025**
 
 [**Code and Dataset**](https://github.com/MatrixBrain/NR-KG) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We proposed NR-KG, a cross-modal knowledge graph framework that jointly models semantic and numerical information for material property prediction.
@@ -50,12 +52,14 @@ A guiding principle I live by is: **Do good work, and don’t worry too much abo
 
 <!-- ######################################## -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Big Data 2025</div><img src='images/TSNet-500x300.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCR Q1, IF=5.7</div><img src='images/TSNet-500x300.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Taylor-Sensus Network: Embracing Noise to Enlighten Uncertainty for Scientific Data](https://ieeexplore.ieee.org/abstract/document/11215959)
 
 **Guangxuan Song**, Dongmei Fu, Zhongwei Qiu, Jintao Meng, and Dawei Zhang
+
+**IEEE Transactions on Big Data 2025**
 
 <!-- [**Code and Dataset**](https://github.com/MatrixBrain/NR-KG) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - We proposed TSNet, a novel Taylor series-based network that explicitly models heteroscedastic noise and estimates both aleatoric and epistemic uncertainty in scientific data.
@@ -66,12 +70,14 @@ A guiding principle I live by is: **Do good work, and don’t worry too much abo
 
 <!-- ######################################## -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advances in Electrical and Computer Engineering 2025</div><img src='images/AECE-500x300.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCR Q3, IF=0.7</div><img src='images/AECE-500x300.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Message Passing Neural Network Framework with Learnable PageRank for Author Impact Assessment](https://aece.ro/abstractplus.php?year=2025&number=1&article=2)
 
 **Guangxuan Song**, Dongmei Fu, and Xiaomeng Wu
+
+**Advances in Electrical and Computer Engineering 2025**
 
 <!-- [**Code and Dataset**](https://github.com/MatrixBrain/NR-KG) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - We developed NPRNet, a neural-enhanced PageRank framework that integrates graph topology with spatial and attribute information to assess author influence more effectively.
@@ -91,7 +97,7 @@ A guiding principle I live by is: **Do good work, and don’t worry too much abo
   
   **Guangxuan Song**, Dongmei Fu, Weiwei Chang, Zhongheng Fu, Lingwei Ma, and Dawei Zhang
   
-  **Corrosion Science 2025**
+  **Corrosion Science 2025 (JCR Q1, IF=8.5)**
 
 ---
 
@@ -99,7 +105,7 @@ A guiding principle I live by is: **Do good work, and don’t worry too much abo
   
   **Guangxuan Song**, Dongmei Fu, Yongjie Lin, Lingei Ma, and Dawei Zhang
   
-  **npj Materials Degradation 2025**
+  **npj Materials Degradation 2025 (JCR Q1, IF=7.6)**
 
 ---
 
@@ -107,7 +113,7 @@ A guiding principle I live by is: **Do good work, and don’t worry too much abo
   
   Suyu Jin, Zhongheng Fu, **Guangxuan Song**, Jiamin Pei, Haiyan Gong, Lingwei Ma, and Dawei Zhang
   
-  **Corrosion Science 2025**
+  **Corrosion Science 2025 (JCR Q1, IF=8.5)**
 
 ---
 
@@ -115,7 +121,7 @@ A guiding principle I live by is: **Do good work, and don’t worry too much abo
   
   Jiaxin Dai, Dongmei Fu, **Guangxuan Song**, Lingwei Ma, Xin Guo, Arjan Mol, Ivan Cole, and Dawei Zhang
   
-  **Corrosion Science 2023**
+  **Corrosion Science 2023 (JCR Q1, IF=8.5)**
 
 ---
 

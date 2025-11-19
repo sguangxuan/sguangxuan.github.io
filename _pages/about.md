@@ -50,7 +50,7 @@ A guiding principle I live by is: **Do good work, and don’t worry too much abo
 
 <!-- ######################################## -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITBD 2025</div><img src='images/TSNet-500x300.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TBD 2025</div><img src='images/TSNet-500x300.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Taylor-Sensus Network: Embracing Noise to Enlighten Uncertainty for Scientific Data](https://ieeexplore.ieee.org/abstract/document/11215959)

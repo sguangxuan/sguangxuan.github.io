@@ -38,7 +38,7 @@ A guiding principle I live by is: **Do good work, and don’t worry too much abo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASOC 2025</div><img src='images/NRKG-500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Bridging the Semantic-Numerical Gap: A Numerical Reasoning Method of Cross-modal Knowledge Graph for Material Property Prediction](https://arxiv.org/abs/2312.09744)
+[Bridging the Semantic-Numerical Gap: A Numerical Reasoning Method of Cross-modal Knowledge Graph for Material Property Prediction](https://www.sciencedirect.com/science/article/pii/S1568494625010890)
 
 **Guangxuan Song**, Dongmei Fu, Zhongwei Qiu, Zijiang Yang, Jiaxin Dai, Lingwei Ma, and Dawei Zhang
 
@@ -50,10 +50,10 @@ A guiding principle I live by is: **Do good work, and don’t worry too much abo
 
 <!-- ######################################## -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/TSNet-500x300.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITBD 2025</div><img src='images/TSNet-500x300.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Taylor-Sensus Network: Embracing Noise to Enlighten Uncertainty for Scientific Data](https://arxiv.org/abs/2409.07942)
+[Taylor-Sensus Network: Embracing Noise to Enlighten Uncertainty for Scientific Data](https://ieeexplore.ieee.org/abstract/document/11215959)
 
 **Guangxuan Song**, Dongmei Fu, Zhongwei Qiu, Jintao Meng, and Dawei Zhang
 

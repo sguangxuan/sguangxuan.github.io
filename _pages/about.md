@@ -35,7 +35,7 @@ A guiding principle I live by is: **Do good work, and don’t worry too much abo
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASOC 2025</div><img src='images/NRKG-500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Soft Computing 2025</div><img src='images/NRKG-500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Bridging the Semantic-Numerical Gap: A Numerical Reasoning Method of Cross-modal Knowledge Graph for Material Property Prediction](https://www.sciencedirect.com/science/article/pii/S1568494625010890)
@@ -50,7 +50,7 @@ A guiding principle I live by is: **Do good work, and don’t worry too much abo
 
 <!-- ######################################## -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TBD 2025</div><img src='images/TSNet-500x300.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Big Data 2025</div><img src='images/TSNet-500x300.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Taylor-Sensus Network: Embracing Noise to Enlighten Uncertainty for Scientific Data](https://ieeexplore.ieee.org/abstract/document/11215959)
@@ -66,7 +66,7 @@ A guiding principle I live by is: **Do good work, and don’t worry too much abo
 
 <!-- ######################################## -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AECE 2025</div><img src='images/AECE-500x300.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advances in Electrical and Computer Engineering 2025</div><img src='images/AECE-500x300.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Message Passing Neural Network Framework with Learnable PageRank for Author Impact Assessment](https://aece.ro/abstractplus.php?year=2025&number=1&article=2)
